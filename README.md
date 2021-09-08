@@ -14,4 +14,4 @@
 ## (You need to do it always If Repo is already Link with VS Code) Hamesha karna hoga
 - [ ] git add .
 - [ ] git commit -m "commit message"
-- [ ] git push -u origin main /master
+- [ ] git push -u origin main / master
